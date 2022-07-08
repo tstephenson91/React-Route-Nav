@@ -1,0 +1,8 @@
+* {
+  background-color: gray;
+}
+
+.nav {
+  display: flex;
+  justify-content: flex-end;
+}
